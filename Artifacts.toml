@@ -1,0 +1,151 @@
+[[zbc2014]]
+arch = "aarch64"
+git-tree-sha1 = "931715f15fde925bd337eea695fd01b727545888"
+os = "macos"
+
+    [[zbc2014.download]]
+    sha256 = "3cd69d0cb5cc4c39bf6d8f7b5dffc3c4816246724b9648bab899a13bd54535b4"
+    url = "https://github.com/JuliaBinaryWrappers/zbc2014_jll.jl/releases/download/zbc2014-v0.3.0+0/zbc2014.v0.3.0.aarch64-apple-darwin.tar.gz"
+[[zbc2014]]
+arch = "aarch64"
+git-tree-sha1 = "4d6b05edca6a1080d6561c50c6ceefd2cb333781"
+libc = "glibc"
+os = "linux"
+
+    [[zbc2014.download]]
+    sha256 = "3951c06be159abde0c248b386c44505cb32d5d01d4e4568ac65be35c8c52b701"
+    url = "https://github.com/JuliaBinaryWrappers/zbc2014_jll.jl/releases/download/zbc2014-v0.3.0+0/zbc2014.v0.3.0.aarch64-linux-gnu.tar.gz"
+[[zbc2014]]
+arch = "aarch64"
+git-tree-sha1 = "f6b39ecd1214f43c28bb5be98f4359d3179773d3"
+libc = "musl"
+os = "linux"
+
+    [[zbc2014.download]]
+    sha256 = "88103759695d31a1079b6bf76ad82fde30eaae844edd04b7f9be760d85ea66db"
+    url = "https://github.com/JuliaBinaryWrappers/zbc2014_jll.jl/releases/download/zbc2014-v0.3.0+0/zbc2014.v0.3.0.aarch64-linux-musl.tar.gz"
+[[zbc2014]]
+arch = "aarch64"
+git-tree-sha1 = "1bf409e1c0c2e9092ab55ee9d6ee3dbc2eca3bf6"
+os = "freebsd"
+
+    [[zbc2014.download]]
+    sha256 = "ecea5241f6e5c262846e1674dfb78b9e0b62289b63b68f294388203c102fcbf4"
+    url = "https://github.com/JuliaBinaryWrappers/zbc2014_jll.jl/releases/download/zbc2014-v0.3.0+0/zbc2014.v0.3.0.aarch64-unknown-freebsd.tar.gz"
+[[zbc2014]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3bcce139c9876bda3f917ad6c7d80f61684a2c60"
+libc = "glibc"
+os = "linux"
+
+    [[zbc2014.download]]
+    sha256 = "617bfb0fd94a435a0bd81160ee04a80a57432a5e68b7deb1663337d699364403"
+    url = "https://github.com/JuliaBinaryWrappers/zbc2014_jll.jl/releases/download/zbc2014-v0.3.0+0/zbc2014.v0.3.0.armv6l-linux-gnueabihf.tar.gz"
+[[zbc2014]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "83dc4056f724ab058db152c55f16261b6e7ac5b1"
+libc = "musl"
+os = "linux"
+
+    [[zbc2014.download]]
+    sha256 = "f46c385fd4c53d90c8b5a14f0dc016f26b2caea3606b20b8274b0d284e0c4f45"
+    url = "https://github.com/JuliaBinaryWrappers/zbc2014_jll.jl/releases/download/zbc2014-v0.3.0+0/zbc2014.v0.3.0.armv6l-linux-musleabihf.tar.gz"
+[[zbc2014]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bc7e0696ca1ce6793eb3b66df73578eb40c1e974"
+libc = "glibc"
+os = "linux"
+
+    [[zbc2014.download]]
+    sha256 = "b98a9385c7b8fa52397ae957a7a2914d4570fc5d3d2210a9be0e73ad0bb9bf34"
+    url = "https://github.com/JuliaBinaryWrappers/zbc2014_jll.jl/releases/download/zbc2014-v0.3.0+0/zbc2014.v0.3.0.armv7l-linux-gnueabihf.tar.gz"
+[[zbc2014]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "24b436277e0f322ee3aee0b7f81577eac2031cd3"
+libc = "musl"
+os = "linux"
+
+    [[zbc2014.download]]
+    sha256 = "26631e3d9cf732aabe88eb7042b29674f2c61326fa46f290a0cf86a86b322393"
+    url = "https://github.com/JuliaBinaryWrappers/zbc2014_jll.jl/releases/download/zbc2014-v0.3.0+0/zbc2014.v0.3.0.armv7l-linux-musleabihf.tar.gz"
+[[zbc2014]]
+arch = "i686"
+git-tree-sha1 = "4539b23db6e36aef6a5a8b0b74fcac9955e706c7"
+libc = "glibc"
+os = "linux"
+
+    [[zbc2014.download]]
+    sha256 = "4142cfd74141368b85347302f378f1d505092c50640ad3de9ba66e1adea7f3b9"
+    url = "https://github.com/JuliaBinaryWrappers/zbc2014_jll.jl/releases/download/zbc2014-v0.3.0+0/zbc2014.v0.3.0.i686-linux-gnu.tar.gz"
+[[zbc2014]]
+arch = "i686"
+git-tree-sha1 = "559e58e93ec9b83468cd18d3522de608748e9765"
+libc = "musl"
+os = "linux"
+
+    [[zbc2014.download]]
+    sha256 = "1a9555318f0cb4dd00a768a67b340726caf07c09eb758528774ce0679b3022b6"
+    url = "https://github.com/JuliaBinaryWrappers/zbc2014_jll.jl/releases/download/zbc2014-v0.3.0+0/zbc2014.v0.3.0.i686-linux-musl.tar.gz"
+[[zbc2014]]
+arch = "i686"
+git-tree-sha1 = "af9c17e1bdd13d212d6bd74a67af5e8a24341ddd"
+os = "windows"
+
+    [[zbc2014.download]]
+    sha256 = "d3da1f33dbead1076b240549c33c9a85f5fc18b4da2cf5306fd2f97990d3c057"
+    url = "https://github.com/JuliaBinaryWrappers/zbc2014_jll.jl/releases/download/zbc2014-v0.3.0+0/zbc2014.v0.3.0.i686-w64-mingw32.tar.gz"
+[[zbc2014]]
+arch = "powerpc64le"
+git-tree-sha1 = "3cfd30171ce587b7fb3126ed0c798fce58b270c7"
+libc = "glibc"
+os = "linux"
+
+    [[zbc2014.download]]
+    sha256 = "3f375c48d3e7dcda9ffe25d3184438eb523cfafcfcd9e94e215d31f2df9f847e"
+    url = "https://github.com/JuliaBinaryWrappers/zbc2014_jll.jl/releases/download/zbc2014-v0.3.0+0/zbc2014.v0.3.0.powerpc64le-linux-gnu.tar.gz"
+[[zbc2014]]
+arch = "x86_64"
+git-tree-sha1 = "81d01d99b922314933bb5134e69e086f997047b4"
+os = "macos"
+
+    [[zbc2014.download]]
+    sha256 = "033b55d56388eecea9001ef895c0af902fa4daba53d0165b29290d6024452a9f"
+    url = "https://github.com/JuliaBinaryWrappers/zbc2014_jll.jl/releases/download/zbc2014-v0.3.0+0/zbc2014.v0.3.0.x86_64-apple-darwin.tar.gz"
+[[zbc2014]]
+arch = "x86_64"
+git-tree-sha1 = "e4eedb01e4058d4ec42f2c1c69381b599cff3768"
+libc = "glibc"
+os = "linux"
+
+    [[zbc2014.download]]
+    sha256 = "b8dd1a35a8e5b12eb97776105cd1fa89fab766e5e6cbcc01f6f23ca9c8097963"
+    url = "https://github.com/JuliaBinaryWrappers/zbc2014_jll.jl/releases/download/zbc2014-v0.3.0+0/zbc2014.v0.3.0.x86_64-linux-gnu.tar.gz"
+[[zbc2014]]
+arch = "x86_64"
+git-tree-sha1 = "dd23e431f928f5d0d13b1a23f09460e759517a48"
+libc = "musl"
+os = "linux"
+
+    [[zbc2014.download]]
+    sha256 = "1b58ac2d9d11a84b2cda828b65cf148c66719d64b55f16dc7e1f7254e37c4b64"
+    url = "https://github.com/JuliaBinaryWrappers/zbc2014_jll.jl/releases/download/zbc2014-v0.3.0+0/zbc2014.v0.3.0.x86_64-linux-musl.tar.gz"
+[[zbc2014]]
+arch = "x86_64"
+git-tree-sha1 = "6af1603388fd58e8079bdb429533d6a7356b9e87"
+os = "freebsd"
+
+    [[zbc2014.download]]
+    sha256 = "7f5884a3401db3fa6a4ce7fc361fe76135f41d17885e174ab788073250083bb1"
+    url = "https://github.com/JuliaBinaryWrappers/zbc2014_jll.jl/releases/download/zbc2014-v0.3.0+0/zbc2014.v0.3.0.x86_64-unknown-freebsd.tar.gz"
+[[zbc2014]]
+arch = "x86_64"
+git-tree-sha1 = "ccfa08eb01bb0eb824c06030614322cbe1680d3b"
+os = "windows"
+
+    [[zbc2014.download]]
+    sha256 = "8a6e0dce6f898de9dd571d84b871d83541bbd2759974dd4822d458e409a21686"
+    url = "https://github.com/JuliaBinaryWrappers/zbc2014_jll.jl/releases/download/zbc2014-v0.3.0+0/zbc2014.v0.3.0.x86_64-w64-mingw32.tar.gz"
